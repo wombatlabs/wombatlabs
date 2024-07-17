@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a blockchain developer with over 7 years of experience with cryptocurrencies and blockchain technology. Are you looking for help with a crypto project? I can help you with:
-* Cryptocurrency coin creation
+* Cryptocurrency coin creation (PoW, PoS, PoA, etc)
 * Token creation (ERC20, ERC721, ERC721A, ERC404)
 * Mining pool creation
 * Blockchain explorer creation
@@ -60,7 +60,7 @@ I am a blockchain developer with over 7 years of experience with cryptocurrencie
 | `Universal Unit Coin` | Fast and cheap proof-of-work EVM compatible blockchain | https://universalunitcoin.com/ |
 | `AgroCoin` | Blockchain technology for the purchase and sale of agroculture commodities | https://www.agrocoin.store/ |
 | `Egoncoin` | Fast and cheap ePoS blockchain that is EVM compatible | https://egoncoin.com/ |
-| `Wagyucoin` | Competitor to Dogecoin with a love for meat | https://wagyucoin.io/ |
+| `Wagyucoin` | Competitor to Dogecoin with a love for steak | https://wagyucoin.io/ |
 | `Qwertycoin` | Community-based privacy coin | https://qwertycoin.org/ |
 | `` |  |  |
 </details>
