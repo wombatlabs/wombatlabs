@@ -2,7 +2,7 @@
 
 I am a blockchain developer with over 7 years of experience with cryptocurrencies and blockchain technology. Are you looking for help with a crypto project? I can help you with:
 * Cryptocurrency coin creation (PoW, PoS, PoA, etc)
-* Token creation (ERC20, ERC721, ERC721A, ERC404)
+* Token creation (ERC20, ERC721, ERC721A, ERC404, Solana Token/Token-2022)
 * Mining pool creation
 * Blockchain explorer creation
 * Dapp creation (DEX's, nft marketplaces, staking, etc)
@@ -50,8 +50,8 @@ I am a blockchain developer with over 7 years of experience with cryptocurrencie
 
 | Name | Description | Link |
 |---------------|-----------------------------------------------------------------|-----------------------------------|
-| `MeowCoin` | Kawpow based crypto that brings blockchain to the animal sector | https://www.mewccrypto.com/ |
 | `Nexis Network` | Lightning fast, scalable, and EVM capable blockchain | https://nexis.network/ |
+| `MeowCoin` | Kawpow based crypto that brings blockchain to the animal sector | https://www.mewccrypto.com/ |
 | `CmusicAI` | Crypto project that is looking to revolutionize the music industry | https://cmusic.ai/ |
 | `XenixChain` | Community based crypto looking to be the next Bitcoin | https://xenixchain.com/ |
 | `RAIA Network` | Crypto project looking to fuel the future of AI | https://www.raianetwork.xyz/ |
