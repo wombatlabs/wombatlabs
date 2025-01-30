@@ -50,6 +50,7 @@ I am a blockchain developer with over 7 years of experience with cryptocurrencie
 
 | Name | Description | Link |
 |---------------|-----------------------------------------------------------------|-----------------------------------|
+| `Waglayla` | Custom algo (Walahash) Kaspa fork memecoin | https://waglayla.com/ |
 | `Nexis Network` | Lightning fast, scalable, and EVM capable blockchain | https://nexis.network/ |
 | `MeowCoin` | Kawpow-based crypto that brings blockchain to the animal sector | https://www.mewccrypto.com/ |
 | `Coinsec` | Kaspa fork | https://coinsec.network/ |
