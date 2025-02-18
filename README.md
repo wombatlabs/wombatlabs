@@ -74,6 +74,8 @@ I am a blockchain developer with over 7 years of experience with cryptocurrencie
 
 | Name | Description | Link |
 |--------------------|-----------------------------------------------------------------|-----------------------------------|
+| `BCH Solo` | BCH solo pool for nerd miners and other mini Bitcoin miners | https://pool.bchsolo.com/ |
+| `Eazy Fox` | Mining pool for BCH | https://bch.eazy-fox.io/ |
 | `Sedra Pool` | Mining pool for Sedra. | https://sedrapool.com/ |
 | `Bitcoin Luminary` | Mining pool for Bitcoin Luminary. | https://pool.bitcoinluminary.com/ |
 | `Hurricane Pool` | Mining pool for Bitcoin and Ethereum Classic | https://hurricanepools.org/ |
