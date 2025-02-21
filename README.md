@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wombatlabs">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+8%2B%20years%20of%20experience;Senior%20Full%20Stack%20Dev;Web3%20Expert&font=Arial&center=true&width=650&height=100&color=D4AF37&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+8%2B%20years%20of%20experience;Senior%20Full%20Stack%20Dev;Web3%20Expert&font=Ubuntu&center=true&width=650&height=100&color=D4AF37&vCenter=true&size=45%22">
   </a>
 </p>
 
@@ -14,17 +14,19 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 * Dapp creation (DEX's, nft marketplaces, staking, etc)
 * And more!
 
+<br>
 **Reach out to me on Telegram to get started! https://t.me/Oxsafe**
-<br/>
+<br>
 
 <p align="left" style="font-family: Brush Script MT; margin-top: 10px;"> 
 <a href="mailto:blockchainnorthwest@gmail.com"><img align="left" src="./assets/logo/email.svg" alt="Email" width="40px"/></a>
-<a href="https://t.me/Oxsafe/"><img align="left" src="./assets/logo/telegram.svg" alt="Telegram" width="40px"/></a>
+<a href="https://t.me/Oxsafe"><img align="left" src="./assets/logo/telegram.svg" alt="Telegram" width="40px"/></a>
 </p>
 
-<br/>
+<br>
 
 <table style="margin-top: 10px;">
+  <br>
   <tr>
     <td align="center" width="70">
       <a href="#macropower-tech">
@@ -222,10 +224,12 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 **> Programming languages**
 
 <p>
-    <a href="https://github.com/search?q=user%3Asourlodine+language%3ARust"><img alt="Rust" src="https://img.shields.io/badge/Rust-ffffff.svg?logo=rust&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Asourlodine+language%3ASolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-000000.svg?logo=solidity&logoColor"></a>
-    <a href="https://github.com/search?q=user%3Asourlodine+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Asourlodine+language%3ATypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Asourlodine+language%3AGo"><img alt="Golang" src="https://img.shields.io/badge/Golang-53caf9.svg?logo=go&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Asourlodine+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Awombatlabs+language%3ARust"><img alt="Rust" src="https://img.shields.io/badge/Rust-ffffff.svg?logo=rust&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Awombatlabs+language%3ASolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-000000.svg?logo=solidity&logoColor"></a>
+    <a href="https://github.com/search?q=user%3Awombatlabs+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Awombatlabs+language%3ATypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Awombatlabs+language%3AGo"><img alt="Golang" src="https://img.shields.io/badge/Golang-53caf9.svg?logo=go&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Awombatlabs+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
+
+<a href="https://github.com/wombatlabs/wombatlabs"><img alt="Wombatlabs's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wombatlabs&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
