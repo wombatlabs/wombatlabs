@@ -96,7 +96,7 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 </table>
 
 
-### Examples
+### Demos
 <details>
 <summary><strong>Tokens</strong></summary>
 
