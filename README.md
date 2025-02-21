@@ -23,7 +23,7 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 <a href="https://t.me/Oxsafe"><img align="left" src="./assets/logo/telegram.svg" alt="Telegram" width="40px"/></a>
 </p>
 
-<br>
+<br><br>
 
 <table>
   <br>
