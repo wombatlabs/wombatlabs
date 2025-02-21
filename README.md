@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wombatlabs">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=45&pause=1000&color=D4AF37&center=true&vCenter=false&width=650&height=100&lines=Senior+Blockchain+Dev;8%2B+years+of+experience;Web3+Expert;AI+Expert">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=45&pause=1000&color=D4AF37&center=true&vCenter=false&width=650&height=100&lines=Senior+Blockchain+Dev;8%2B+Years+of+Experience;Web3+Expert;AI+Expert">
   </a>
 </p>
 
@@ -12,6 +12,8 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 * Crypto mining pool creation (miningcore, public-pool, p2pool, poolcore, ckpool, open-eth-pool, cryptonote pool, yiimp, etc)
 * Blockchain explorer creation
 * Dapp creation (Pump.fun clone, DEX's, nft marketplaces, staking, etc)
+* Crypto trading and sniper bots
+* AI Chat Bots
 * And more!
 
 <br>
