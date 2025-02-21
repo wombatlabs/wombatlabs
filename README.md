@@ -231,5 +231,3 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
     <a href="https://github.com/search?q=user%3Awombatlabs+language%3AGo"><img alt="Golang" src="https://img.shields.io/badge/Golang-53caf9.svg?logo=go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Awombatlabs+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
-
-<a href="https://github.com/wombatlabs/wombatlabs"><img alt="Wombatlabs's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wombatlabs&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
