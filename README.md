@@ -90,9 +90,9 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
     </td>
     <td align="center" width="70">
       <a href="#tech">
-        <img src="./assets/logo/sui.png" width="30" height="30" alt="Sui" />
+        <img src="./assets/logo/tron.png" width="30" height="30" alt="Tron" />
       </a>
-      <br>Sui
+      <br>Tron
     </td>
     <td align="center" width="70">
       <a href="#tech" >
