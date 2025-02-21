@@ -72,33 +72,15 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
     </td>
     <td align="center" width="70">
       <a href="#tech">
-        <img src="./assets/logo/cronos.png" width="30" height="30" alt="Cronos" />
-      </a>
-      <br>Cronos
-    </td>
-    <td align="center" width="70">
-      <a href="#tech">
-        <img src="./assets/logo/near.png" width="30" height="30" alt="Near" />
-      </a>
-      <br>Near
-    </td>
-    <td align="center" width="70">
-      <a href="#tech">
         <img src="./assets/logo/cosmos.png" width="30" height="30" alt="Cosmos" />
       </a>
-      <br>cosmos
+      <br>Cosmos
     </td>
     <td align="center" width="70">
       <a href="#tech">
         <img src="./assets/logo/tron.png" width="30" height="30" alt="Tron" />
       </a>
       <br>Tron
-    </td>
-    <td align="center" width="70">
-      <a href="#tech" >
-        <img src="./assets/logo/aptos.png" width="30" height="30" alt="Aptos" />
-      </a>
-      <br>Aptos
     </td>
   </tr>
 </table>
