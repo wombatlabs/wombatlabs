@@ -15,17 +15,19 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 * And more!
 
 <br>
+
 **Reach out to me on Telegram to get started! https://t.me/Oxsafe**
+
 <br>
 
-<p align="left" style="font-family: Brush Script MT; margin-top: 10px;"> 
+<p align="left" style="font-family: Brush Script MT;"> 
 <a href="mailto:blockchainnorthwest@gmail.com"><img align="left" src="./assets/logo/email.svg" alt="Email" width="40px"/></a>
 <a href="https://t.me/Oxsafe"><img align="left" src="./assets/logo/telegram.svg" alt="Telegram" width="40px"/></a>
 </p>
 
 <br>
 
-<table style="margin-top: 10px;">
+<table>
   <br>
   <tr>
     <td align="center" width="70">
