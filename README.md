@@ -48,7 +48,7 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
     </td>
     <td align="center" width="70">
       <a href="#tech">
-        <img src="./assets/logo/tron.png" width="30" height="30" alt="Tron" />
+        <img src="./assets/logo/ton.png" width="30" height="30" alt="Ton" />
       </a>
       <br>Ton
     </td>
