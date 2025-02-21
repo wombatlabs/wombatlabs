@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wombatlabs">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+8%2B%20years%20of%20experience;Senior%20Full%20Stack%20Dev;Web3%20Expert&font=Ubuntu&center=true&width=650&height=100&color=D4AF37&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=45&pause=1000&color=D4AF37&width=650&height=100&lines=Senior+Blockchain+Dev;8%2B+years+of+experience;Web3+Expert;AI+Expert">
   </a>
 </p>
 
@@ -31,73 +31,73 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
   <br>
   <tr>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/solana.png" width="30" height="30" alt="Solana" />
       </a>
       <br>Solana
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/ethereum.png" width="30" height="30" alt="Ethereum" />
       </a>
       <br>Ethereum
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/polygon.png" width="30" height="30" alt="Polygon" />
       </a>
       <br>Polygon
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/binance.png" width="30" height="30" alt="Binance" />
       </a>
       <br>Binance
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/avalanche.png" width="30" height="30" alt="Avalanche" />
       </a>
       <br>Avalanche
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/bitcoin.png" width="30" height="30" alt="Cardano" />
       </a>
       <br>Bitcoin
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/cardano.png" width="30" height="30" alt="Cardano" />
       </a>
       <br>Cardano
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/cronos.png" width="30" height="30" alt="Cronos" />
       </a>
       <br>Cronos
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/near.png" width="30" height="30" alt="Near" />
       </a>
       <br>Near
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/cosmos.png" width="30" height="30" alt="Cosmos" />
       </a>
       <br>cosmos
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./assets/logo/sui.png" width="30" height="30" alt="Sui" />
       </a>
       <br>Sui
     </td>
     <td align="center" width="70">
-      <a href="#macropower-tech" >
+      <a href="#tech" >
         <img src="./assets/logo/aptos.png" width="30" height="30" alt="Aptos" />
       </a>
       <br>Aptos
@@ -106,7 +106,7 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 </table>
 
 
-### Here are a few examples of the work I have done:
+### Examples
 <details>
 <summary><strong>Tokens</strong></summary>
 
@@ -221,7 +221,7 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 
 <br/>
 
-<h3 align="left" id="macropower-tech">Tech Stack</h3>
+<h3 align="left" id="tech">Tech Stack</h3>
 
 **> Programming languages**
 
