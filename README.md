@@ -42,15 +42,27 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
     </td>
     <td align="center" width="70">
       <a href="#tech">
-        <img src="./assets/logo/polygon.png" width="30" height="30" alt="Polygon" />
-      </a>
-      <br>Polygon
-    </td>
-    <td align="center" width="70">
-      <a href="#tech">
         <img src="./assets/logo/binance.png" width="30" height="30" alt="Binance" />
       </a>
       <br>Binance
+    </td>
+    <td align="center" width="70">
+      <a href="#tech">
+        <img src="./assets/logo/tron.png" width="30" height="30" alt="Tron" />
+      </a>
+      <br>Ton
+    </td>
+    <td align="center" width="70">
+      <a href="#tech">
+        <img src="./assets/logo/tron.png" width="30" height="30" alt="Tron" />
+      </a>
+      <br>Tron
+    </td>
+    <td align="center" width="70">
+      <a href="#tech">
+        <img src="./assets/logo/polygon.png" width="30" height="30" alt="Polygon" />
+      </a>
+      <br>Polygon
     </td>
     <td align="center" width="70">
       <a href="#tech">
@@ -75,12 +87,6 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
         <img src="./assets/logo/cosmos.png" width="30" height="30" alt="Cosmos" />
       </a>
       <br>Cosmos
-    </td>
-    <td align="center" width="70">
-      <a href="#tech">
-        <img src="./assets/logo/tron.png" width="30" height="30" alt="Tron" />
-      </a>
-      <br>Tron
     </td>
   </tr>
 </table>
