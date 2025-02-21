@@ -8,10 +8,10 @@
 
 I am a blockchain developer with over 8 years of experience with cryptocurrencies and blockchain technology. Are you looking for help with a crypto project? I can help you with:
 * Cryptocurrency coin creation (PoW, PoS, PoA, etc)
-* Token creation (ERC20, ERC721, ERC721A, ERC404, Solana Token/Token-2022)
-* Crypto mining pool creation
+* Token creation (ERC20, ERC721, ERC721A, ERC404, Solana SPL Token/Token-2022)
+* Crypto mining pool creation (miningcore, public-pool, p2pool, poolcore, ckpool, open-eth-pool, cryptonote pool, yiimp, etc)
 * Blockchain explorer creation
-* Dapp creation (DEX's, nft marketplaces, staking, etc)
+* Dapp creation (Pump.fun clone, DEX's, nft marketplaces, staking, etc)
 * And more!
 
 <br>
