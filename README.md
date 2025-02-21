@@ -25,7 +25,7 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 
 <br><br>
 
-## A Few of the Blockchain Networks
+### A Few of the Blockchain Networks
 
 <table>
   <br>
