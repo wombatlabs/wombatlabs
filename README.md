@@ -97,6 +97,7 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 
 
 ### Demos
+Not everything I have done is listed but it gives you an idea. 
 <details>
 <summary><strong>Tokens</strong></summary>
 
@@ -159,6 +160,7 @@ I am a blockchain developer with over 8 years of experience with cryptocurrencie
 
 | Name | Description | Link |
 |--------------------|-----------------------------------------------------------------|-----------------------------------|
+| `Sumo Hash` | Multicoin miningpool | https://sumohash.com/ |
 | `BCH Solo` | BCH solo pool for nerd miners and other mini Bitcoin miners | https://pool.bchsolo.com/ |
 | `Eazy Fox` | Mining pool for BCH | https://bch.eazy-fox.io/ |
 | `Sedra Pool` | Mining pool for Sedra. (backend) | https://sedrapool.com/ |
