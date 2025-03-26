@@ -9,7 +9,7 @@
 I am a blockchain developer with over 8 years of experience with cryptocurrencies and blockchain technology. Are you looking for help with a crypto project? I can help you with:
 * Cryptocurrency coin creation (PoW, PoS, PoA, etc)
 * Token creation (ERC20, ERC721, ERC721A, ERC404, Solana SPL Token/Token-2022)
-* Crypto mining pool creation (miningcore, public-pool, p2pool, poolcore, ckpool, open-eth-pool, cryptonote pool, yiimp, etc)
+* Crypto mining pool creation (miningcore, public-pool, p2pool, poolcore, ckpool, open-eth-pool, cryptonote pool, yiimp, merged mining, etc)
 * Blockchain explorer creation
 * Dapp creation (Pump.fun clone, DEX's, nft marketplaces, staking, etc)
 * Crypto trading and sniper bots
@@ -161,10 +161,12 @@ Not everything I have done is listed but it gives you an idea.
 | Name | Description | Link |
 |--------------------|-----------------------------------------------------------------|-----------------------------------|
 | `Sumo Hash` | Multicoin miningpool | https://sumohash.com/ |
+| `CyberPool` | Multicoin miningpool | https://cyberpool.io/ |
+| `CyberPool Merged` | Multicoin merged miningpool | https://merged.cyberpool.io/ |
 | `BCH Solo` | BCH solo pool for nerd miners and other mini Bitcoin miners | https://pool.bchsolo.com/ |
 | `Eazy Fox` | Mining pool for BCH | https://bch.eazy-fox.io/ |
-| `Sedra Pool` | Mining pool for Sedra. (backend) | https://sedrapool.com/ |
-| `Bitcoin Luminary` | Mining pool for Bitcoin Luminary. | https://pool.bitcoinluminary.com/ |
+| `Sedra Pool` | Mining pool for Sedra | https://sedrapool.com/ |
+| `Bitcoin Luminary` | Mining pool for Bitcoin Luminary | https://pool.bitcoinluminary.com/ |
 | `Hurricane Pool` | Mining pool for Bitcoin and Ethereum Classic | https://hurricanepools.org/ |
 | `KaspaMiners` | Mining pool for Kaspa | https://kaspaminers.net/ |
 | `HashPool` | Multi-coin pool for BTC, BCH, ETC, and more | https://hashpool.live/ |
