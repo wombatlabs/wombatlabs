@@ -160,9 +160,9 @@ Not everything I have done is listed but it gives you an idea.
 
 | Name | Description | Link |
 |--------------------|-----------------------------------------------------------------|-----------------------------------|
-| `Sumo Hash` | Multicoin miningpool | https://sumohash.com/ |
-| `CyberPool` | Multicoin miningpool | https://cyberpool.io/ |
-| `CyberPool Merged` | Multicoin merged miningpool | https://merged.cyberpool.io/ |
+| `Sumo Hash` | Multicoin mining pool | https://sumohash.com/ |
+| `CyberPool` | Multicoin mining pool | https://cyberpool.io/ |
+| `CyberPool Merged` | Multicoin merged mining pool | https://merged.cyberpool.io/ |
 | `BCH Solo` | BCH solo pool for nerd miners and other mini Bitcoin miners | https://pool.bchsolo.com/ |
 | `Eazy Fox` | Mining pool for BCH | https://bch.eazy-fox.io/ |
 | `Sedra Pool` | Mining pool for Sedra | https://sedrapool.com/ |
