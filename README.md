@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="https://github.com/wombatlabs?tab=followers"><img src="https://img.shields.io/github/followers/wombatlabs?label=Followers" alt="Followers" /></a>
-  <a href="https://github.com/wombatlabs?tab=stars"><img src="https://img.shields.io/github/stars/wombatlabs?label=Stars" alt="Stars" /></a>
   <a href="https://t.me/Oxsafe"><img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?logo=telegram" alt="Telegram" /></a>
   <a href="mailto:blockchainnorthwest@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail" alt="Email" /></a>
 </p>
@@ -29,18 +28,6 @@ I help build and ship production-grade blockchain and crypto solutions:
 - **AI Chatbots &amp; Automation**
 
 > **📫 Get in touch:** [Telegram](https://t.me/Oxsafe) • blockchainnorthwest@gmail.com
-
----
-
-## 📂 Featured Projects
-
-| Project                 | Description                                     | Link                                                       |
-|-------------------------|-------------------------------------------------|------------------------------------------------------------|
-| **kaspa-pool-core**     | High-performance Kaspa mining pool core in Rust | [Repo](https://github.com/wombatlabs/kaspa-pool-core)      |
-| **erc20-token-framework** | Boilerplate & tests for ERC20 & ERC721 contracts | [Repo](https://github.com/wombatlabs/erc20-token-framework) |
-| **ai-chatbot-telegram** | AI-powered Telegram chatbot skeleton            | [Repo](https://github.com/wombatlabs/ai-chatbot-telegram)  |
-
-> More projects: [GitHub Repositories](https://github.com/wombatlabs?tab=repositories)
 
 ---
 
@@ -139,6 +126,8 @@ Explore real-world deployments and examples across categories:
 | Save Bitcoin           | Save Bitcoin staking                           | https://save-bitcoin-staking.netlify.app/         |
 | Dexo Staking           | Staking demo for Dexo                          | https://staking-demo-token.netlify.app/           |
 </details>
+
+> More projects: [GitHub Repositories](https://github.com/wombatlabs?tab=repositories)
 
 ---
 
