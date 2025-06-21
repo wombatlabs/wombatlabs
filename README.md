@@ -17,7 +17,7 @@
 
 ## 🚀 Services
 
-I help build and ship production-grade blockchain and crypto solutions:
+I help build and ship production-grade blockchain, crypto, and AI solutions:
 
 - **Custom Blockchains:** PoW, PoS, PoA
 - **Token Development:** ERC20, ERC721(A), ERC404, Solana SPL
