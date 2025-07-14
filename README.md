@@ -87,11 +87,12 @@ Explore real-world deployments and examples across categories:
 | Name                  | Description                                       | Link                                               |
 |-----------------------|---------------------------------------------------|----------------------------------------------------|
 | Sumo Hash             | Multicoin mining pool                             | https://sumohash.com/                              |
+| NicePool              | Multicoin mining pool with regional stratums      | https://nicepool.ac/                               |
 | CyberPool             | Multicoin mining pool                             | https://cyberpool.io/                              |
 | CyberPool Merged      | Multicoin merged mining pool                      | https://merged.cyberpool.io/                       |
+| Sedra Pool            | Sedra mining pool                                 | https://sedrapool.com/                             |
 | BCH Solo              | Solo BCH pool                                     | https://pool.bchsolo.com/                          |
 | Eazy Fox              | BCH mining pool                                   | https://bch.eazy-fox.io/                           |
-| Sedra Pool            | Sedra mining pool                                 | https://sedrapool.com/                             |
 | Bitcoin Luminary Pool | Bitcoin Luminary mining pool                      | https://pool.bitcoinluminary.com/                  |
 | Hurricane Pool        | BTC & ETC pool                                    | https://hurricanepools.org/                       |
 | KaspaMiners           | Kaspa mining pool                                 | https://kaspaminers.net/                          |
@@ -105,6 +106,9 @@ Explore real-world deployments and examples across categories:
 
 | Name         | Description                                   | Link                                                     |
 |--------------|-----------------------------------------------|----------------------------------------------------------|
+| XIUM         | Presale for XIUM token (BSC)                  | https://xium-presale-bsc.netlify.app/ |
+| Miners Pal   | Presale for MinersPal (BSC)                   | https://minerspal-presale.netlify.app/ |
+| Storme       | Presale for Storme token (ETH)                | https://storme-presale.netlify.app/ |
 | Cramble      | Presale for Cramble Casino (BSC)              | https://cramble-presale.netlify.app/                     |
 | CBD Global   | Presale for CBD Global (BSC)                  | https://cbd-global-presale.netlify.app/                  |
 | REM ICO      | Renewable energy mining presale (BSC)         | https://rem-ico.netlify.app/                             |
