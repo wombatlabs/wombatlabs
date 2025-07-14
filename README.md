@@ -106,16 +106,15 @@ Explore real-world deployments and examples across categories:
 
 | Name         | Description                                   | Link                                                     |
 |--------------|-----------------------------------------------|----------------------------------------------------------|
-| XIUM         | Presale for XIUM token (BSC)                  | https://xium-presale-bsc.netlify.app/ |
-| Miners Pal   | Presale for MinersPal (BSC)                   | https://minerspal-presale.netlify.app/ |
-| Storme       | Presale for Storme token (ETH)                | https://storme-presale.netlify.app/ |
+| XIUM         | Presale for XIUM token (BSC)                  | https://xium-presale-bsc.netlify.app/                    |
+| Miners Pal   | Presale for MinersPal (BSC)                   | https://minerspal-presale.netlify.app/                   |
+| Storme       | Presale for Storme token (ETH)                | https://storme-presale.netlify.app/                      |
 | Cramble      | Presale for Cramble Casino (BSC)              | https://cramble-presale.netlify.app/                     |
 | CBD Global   | Presale for CBD Global (BSC)                  | https://cbd-global-presale.netlify.app/                  |
 | REM ICO      | Renewable energy mining presale (BSC)         | https://rem-ico.netlify.app/                             |
 | Make It Out  | Horror game presale (BSC)                     | https://makeitout.io/                                    |
-| DCPay        | Presale for DCPay crypto project (ETH)        | https://dcpay-presale.netlify.app/                      |
-| Storme       | ETH presale for Storme                        | https://storme-presale.netlify.app/                     |
-| Baby Fine    | BSC presale for Baby Fine                     | https://babyfine-presale.netlify.app/                   |
+| DCPay        | Presale for DCPay crypto project (ETH)        | https://dcpay-presale.netlify.app/                       |
+| Baby Fine    | BSC presale for Baby Fine                     | https://babyfine-presale.netlify.app/                    |
 </details>
 
 <details>
