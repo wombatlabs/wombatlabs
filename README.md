@@ -67,18 +67,22 @@ Explore real-world deployments and examples across categories:
 |----------------------|-------------------------------------------------------|------------------------------------------|
 | Waglayla             | Custom algo (Walahash) Kaspa fork memecoin            | https://waglayla.com/                    |
 | Nexis Network        | Lightning fast, scalable, EVM capable blockchain      | https://nexis.network/                   |
+| Voltaem | Merge-mineable LTC fork | https://voltaem.io/ |
 | MeowCoin             | Kawpow-based crypto for the animal sector             | https://www.mewccrypto.com/              |
 | Coinsec              | Kaspa fork                                           | https://coinsec.network/                 |
-| CmusicAI             | Music industry blockchain project                     | https://cmusic.ai/                       |
-| XenixChain           | Community-based crypto aiming to rival Bitcoin        | https://xenixchain.com/                  |
-| RAIA Network         | Blockchain for AI applications                        | https://www.raianetwork.xyz/             |
-| Bitcoin Luminary     | Bitcoin-based crypto with fast transactions           | https://bitcoinluminary.com/             |
-| Satoshi Coin         | Efficient, faster Bitcoin alternative                 | https://satoshicoin.network/             |
+| CmusicAI             | Music industry blockchain project forked from Bitcoin                    | https://cmusic.ai/                       |
+| XenixChain           | Community-based Bitcoin fork aiming to rival Bitcoin        | https://xenixchain.com/                  |
+| RAIA Network         | Litecoin fork for AI applications                        | https://www.raianetwork.xyz/             |
+| Bitcoin Luminary     | Bitcoin fork with fast transactions           | https://bitcoinluminary.com/             |
+| Satoshi Coin         | Bitcoin fork that is efficient, faster Bitcoin alternative                 | https://satoshicoin.network/             |
 | Universal Unit Coin  | PoW, EVM compatible, fast & cheap                     | https://universalunitcoin.com/           |
-| AgroCoin             | Blockchain for agriculture commodities                | https://agrocoin.store/                  |
+| AgroCoin             | Bitcoin fork for agriculture commodities                | https://agrocoin.store/                  |
 | Egoncoin             | ePoS, EVM compatible, fast & cheap                    | https://egoncoin.com/                    |
 | Wagyucoin            | Dogecoin competitor with a love for steak             | https://wagyucoin.io/                    |
 | Qwertycoin           | Community-based privacy coin                          | https://qwertycoin.org/                  |
+| Kattcoin             | Bitcoin fork for supporting catts                     | https://www.kattcoin.com/                |
+| Nullion | Bitcoin fork that is fast and effecient| https://nullionchain.com |
+| Bitcoin Free | Bitcoin fork for merge-mining with sha256 coins| https://btcc.tech |
 </details>
 
 <details>
