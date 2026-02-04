@@ -21,7 +21,7 @@ I help build and ship production-grade blockchain, crypto, and AI solutions:
 
 - **Custom Blockchains:** PoW, PoS, PoA
 - **Token Development:** ERC20, ERC721(A), ERC404, Solana SPL
-- **Mining Pools:** Miningcore, nomp, ckpool, yiimp &amp; more
+- **Crypto Mining Pools:** Miningcore, nomp, ckpool, yiimp, merged mining &amp; more
 - **Blockchain Explorers**
 - **Dapps &amp; DeFi:** DEXs, NFT marketplaces, staking platforms, presale dashboards
 - **Trading &amp; Sniper Bots**
@@ -81,7 +81,7 @@ Explore real-world deployments and examples across categories:
 | Wagyucoin            | Dogecoin competitor with a love for steak             | https://wagyucoin.io/                    |
 | Qwertycoin           | Community-based privacy coin                          | https://qwertycoin.org/                  |
 | Kattcoin             | Bitcoin fork for supporting catts                     | https://www.kattcoin.com/                |
-| Nullion | Bitcoin fork that is fast and effecient| https://nullionchain.com |
+| Nullion | Bitcoin fork that is fast and efficient | https://nullionchain.com |
 | Bitcoin Free | Bitcoin fork for merge-mining with sha256 coins| https://btcc.tech |
 </details>
 
