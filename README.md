@@ -90,16 +90,18 @@ Explore real-world deployments and examples across categories:
 
 | Name                  | Description                                       | Link                                               |
 |-----------------------|---------------------------------------------------|----------------------------------------------------|
+| CyberPool             | Multicoin merged mining pool                      | https://cyberpool.io/                              |
+| BitSolo               | Multicoin solo mining pool                        | https://bitsolo.me/                                |
+| CryptoWare            | Kaspa mining pool                                 | https://kaspapool.cryptoware.uk/                   |
+| USBpool               | BTC mining pool for USB miners                    | https://usbpool.com/                               |
 | Sumo Hash             | Multicoin mining pool                             | https://sumohash.com/                              |
 | NicePool              | Multicoin mining pool with regional stratums      | https://nicepool.ac/                               |
-| CyberPool             | Multicoin mining pool                             | https://cyberpool.io/                              |
-| CyberPool Merged      | Multicoin merged mining pool                      | https://merged.cyberpool.io/                       |
 | Sedra Pool            | Sedra mining pool                                 | https://sedrapool.com/                             |
 | BCH Solo              | Solo BCH pool                                     | https://pool.bchsolo.com/                          |
 | Eazy Fox              | BCH mining pool                                   | https://bch.eazy-fox.io/                           |
 | Bitcoin Luminary Pool | Bitcoin Luminary mining pool                      | https://pool.bitcoinluminary.com/                  |
-| Hurricane Pool        | BTC & ETC pool                                    | https://hurricanepools.org/                       |
-| KaspaMiners           | Kaspa mining pool                                 | https://kaspaminers.net/                          |
+| Hurricane Pool        | BTC & ETC pool                                    | https://hurricanepools.org/                        |
+| KaspaMiners           | Kaspa mining pool                                 | https://kaspaminers.net/                           |
 | HashPool              | Multi-coin pool (BTC, BCH, ETC & more)            | https://hashpool.live/                             |
 | AsicMinersPool        | US-based multi-coin pool                          | https://pool.asicminerspool.com/                   |
 | Poolbe                | Multi-coin pool (ETC, CLO, OCTA, ETHW & more)     | https://poolbe.eu/                                 |
